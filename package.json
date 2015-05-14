@@ -1,7 +1,7 @@
 {
   "name": "spore-cell-parse",
   "version": "0.0.1",
-  "description": "Parse paths of Spore cells",
+  "description": "Path parser for Spore cells",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
